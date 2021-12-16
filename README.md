@@ -42,8 +42,9 @@ atualmente tenho me dedicado a me tornar uma dev backend.
 ## Meus dados no GitHub 💣
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-michelerocha&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmichelerochaa&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme="/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kterra&" alt="mrmichelerochaa" /></p>
 </div>
   
   
